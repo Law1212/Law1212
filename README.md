@@ -8,9 +8,7 @@ I'm Gergő Bakos, a passionate Software Engineering student at the University of
 
 - :seedling: I’m currently learning about C++.
 - :computer: Most used line of code `git commit -m "Initial Commit"`.
-- 🤔 I’m looking for an internship.
-- :speech_balloon: Ask me about anything.
-
+- ✍ First line of `Hello World!` written in: 2017.
 <hr>
 
 ### 🛠 &nbsp; Tech Stack
