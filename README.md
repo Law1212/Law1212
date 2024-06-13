@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+ <p/>
 <!--
 **Law1212/Law1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
