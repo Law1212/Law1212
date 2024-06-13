@@ -24,6 +24,8 @@ I'm Gergő Bakos, a passionate Software Engineering student at the University of
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Law1212&theme=dark&layout=compact" width="410" /></p>
 
+------
+
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
