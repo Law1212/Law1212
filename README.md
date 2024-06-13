@@ -24,7 +24,6 @@ I'm Gergő Bakos, a passionate Software Engineering student 💻.
 ### ⚙️ &nbsp; Git Analytics
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Law1212&theme=dark&show_icons=true" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Law1212&theme=dark&layout=compact" width="410" /></p>
 
 ------
 
