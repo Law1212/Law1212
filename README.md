@@ -21,10 +21,5 @@ I'm Gergő Bakos, a passionate Software Engineering student at the University of
 
 ------
 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
 
-------
-
-Last Edited on: 13/06/2024
+Last Edited on: 28/01/2025
